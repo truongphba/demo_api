@@ -25,7 +25,7 @@
     {
       "id": 1,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam Trung Cấp Biti's DSM074400XNH (Xanh Nhớt)"
+      "name": "Giày Thể Thao Nam Trung Cấp Biti's DSM074400XNH (Xanh Nhớt)",
       "price": 359100,
       "quantity": 10,
       "status": 1,
@@ -38,7 +38,7 @@
     {
       "id": 2,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam DSM076000TRG (Trắng)"
+      "name": "Giày Thể Thao Nam DSM076000TRG (Trắng)",
       "price": 444100,
       "quantity": 5,
       "status": 1,
@@ -51,7 +51,7 @@
    {
       "id": 3,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam DSM075033XAM (Xám)"
+      "name": "Giày Thể Thao Nam DSM075033XAM (Xám)",
       "price": 751000,
       "quantity": 5,
       "status": 1,
@@ -64,7 +64,7 @@
    {
       "id": 4,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam DSM075033TRG (Trắng)"
+      "name": "Giày Thể Thao Nam DSM075033TRG (Trắng)",
       "price": 751000,
       "quantity": 2,
       "status": 1,
@@ -77,7 +77,7 @@
    {
       "id": 5,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam DSM075033DEN (Đen)"
+      "name": "Giày Thể Thao Nam DSM075033DEN (Đen)",
       "price": 751000,
       "quantity": 2,
       "status": 1,
@@ -90,7 +90,7 @@
    {
       "id": 6,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam Biti's DSM074933XAM (Xám)"
+      "name": "Giày Thể Thao Nam Biti's DSM074933XAM (Xám)",
       "price": 713450,
       "quantity": 12,
       "status": 1,
@@ -103,7 +103,7 @@
    {
       "id": 7,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam Biti's DSM074933XDD (Xanh Dương Đậm)"
+      "name": "Giày Thể Thao Nam Biti's DSM074933XDD (Xanh Dương Đậm)",
       "price": 713450,
       "quantity": 4,
       "status": 1,
@@ -116,7 +116,7 @@
    {
       "id": 8,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam DSM075200XNH (Xanh Nhớt)"
+      "name": "Giày Thể Thao Nam DSM075200XNH (Xanh Nhớt)",
       "price": 417000,
       "quantity": 4,
       "status": 1,
@@ -129,7 +129,7 @@
    {
       "id": 9,
       "categoryId": 1,
-      "name": "Giày Thể Thao Nam DSM076000XAM (Xám)"
+      "name": "Giày Thể Thao Nam DSM076000XAM (Xám)",
       "price": 345000,
       "quantity": 0,
       "status": 1,
@@ -142,7 +142,7 @@
    {
       "id": 10,
       "categoryId": 1,
-      "name": "Giày Thể Thao Cao Cấp Nam DSMH10201XAM (Xám)*"
+      "name": "Giày Thể Thao Cao Cấp Nam DSMH10201XAM (Xám)*",
       "price": 241000,
       "quantity": 3,
       "status": 0,
@@ -155,7 +155,7 @@
    {
       "id": 11,
       "categoryId": 2,
-      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Black DSMH08300DEN (Đen)"
+      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Black DSMH08300DEN (Đen)",
       "price": 999000,
       "quantity": 3,
       "status": 1,
@@ -168,7 +168,7 @@
    {
       "id": 12,
       "categoryId": 2,
-      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Gray DSMH10000XAM (Xám)"
+      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Gray DSMH10000XAM (Xám)",
       "price": 347000,
       "quantity": 3,
       "status": 1,
@@ -181,7 +181,7 @@
    {
       "id": 13,
       "categoryId": 2,
-      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Tiger DSMH08300CAM (Cam)"
+      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Tiger DSMH08300CAM (Cam)",
       "price": 675000,
       "quantity": 3,
       "status": 1,
@@ -194,7 +194,7 @@
    {
       "id": 14,
       "categoryId": 3,
-      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100DOO (Đỏ)"
+      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100DOO (Đỏ)",
       "price": 863000,
       "quantity": 2,
       "status": 1,
@@ -207,7 +207,7 @@
    {
       "id": 15,
       "categoryId": 3,
-      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100XDG (Xanh Dương)"
+      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100XDG (Xanh Dương)",
       "price": 634000,
       "quantity": 25,
       "status": 1,
@@ -220,7 +220,7 @@
    {
       "id": 16,
       "categoryId": 3,
-      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100XMN (Xanh Mi Nơ)"
+      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100XMN (Xanh Mi Nơ)",
       "price": 521000,
       "quantity": 6,
       "status": 1,
