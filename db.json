@@ -1,11 +1,234 @@
 {
-  "posts": [
+  "categories": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Giày thể thao",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "name": "Giày chạy bộ",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "name": "Giày đá banh",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "name": "Giày tây",
+      "status": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam Trung Cấp Biti's DSM074400XNH (Xanh Nhớt)"
+      "price": 359100,
+      "quantity": 10,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm074400xnh__6__29afa32f3e8b48cca33a594b66a8b377.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm074400xnh__3__904a1ea88a7b4a97be06c6f2edd50d5e.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm074400xnh__1__f20a9321458b46f2ab621957e69e7d54.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam DSM076000TRG (Trắng)"
+      "price": 444100,
+      "quantity": 5,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsc_0156_4f9a6c68babb4e379bd51d2627854266.jpg",
+      "https://product.hstatic.net/1000230642/product/dsc_0154_bd89004adf52457ca0c74edda2c8b5d8.jpg",
+      "https://product.hstatic.net/1000230642/product/dsc_0157_f824e655e4ff40bb903fa6fc88bc432a.jpg"
+      ]
+   },
+   {
+      "id": 3,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam DSM075033XAM (Xám)"
+      "price": 751000,
+      "quantity": 5,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm075033xam__5__d25de82488fa4773b20b5f06fade05d5.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075033xam__3__80328b7c42f04cc8967f35bf8a349724.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075033xam__1__8fa1d3e4afb64d03a5f143d7583fa050.jpg"
+      ]
+   },
+   {
+      "id": 4,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam DSM075033TRG (Trắng)"
+      "price": 751000,
+      "quantity": 2,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm075033trg__5__93a59bf7c33f434f96ce6d069ba78933.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075033trg__3__cb5c036902cc400b83e0366e9b74defb.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075033trg__1__53d38cda67bf4599942d5824f4dde2b1.jpg"
+      ]
+   },
+   {
+      "id": 5,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam DSM075033DEN (Đen)"
+      "price": 751000,
+      "quantity": 2,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm075033den__5__ec0379e743994bc7a672727b034c65db.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075033den__3__af6903bd187c416793e730f25328c7e0.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075033den__1__80df477090b8402b8a2ee95efac91680.jpg"
+      ]
+   },
+   {
+      "id": 6,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam Biti's DSM074933XAM (Xám)"
+      "price": 713450,
+      "quantity": 12,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm074933xam__5__85159c87835f4b0c9669746fed6e6632.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm074933xam__2__e7bbc677c5dc43b7a2242abe975d86ca.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm074933xam__7__02e0f405fec14d12b1cd8beb4b59c6f8.jpg"
+      ]
+   },
+   {
+      "id": 7,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam Biti's DSM074933XDD (Xanh Dương Đậm)"
+      "price": 713450,
+      "quantity": 4,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm074933xdd__5__3ccc1b48087148c287db834181c343cb.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm074933xdd__2__89a275593a85425a9379214ba6d4cf56.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm074933xdd__6__22a9b4d6890e4b0ba07956e1d6dccbf3.jpg"
+      ]
+   },
+   {
+      "id": 8,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam DSM075200XNH (Xanh Nhớt)"
+      "price": 417000,
+      "quantity": 4,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm075200xnh__5__cf77390cdee94db99f4d268d77a14d15.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075200xnh__3__f558006d2a644eab86166fc905012fde.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm075200xnh__1__c39bf19f2fc14dba95621e29f865fedb.jpg"
+      ]
+   },
+   {
+      "id": 9,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Nam DSM076000XAM (Xám)"
+      "price": 345000,
+      "quantity": 0,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsm076000xam__3__2d111ed953c343329016c8a4988f1275.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm076000xam__1__ac2496dc39184c4bb6bcbab1b58ff64e.jpg",
+      "https://product.hstatic.net/1000230642/product/dsm076000xam__5__ac0a8d417e0742249bcff4f70ed3470b.jpg"
+      ]
+   },
+   {
+      "id": 10,
+      "categoryId": 1,
+      "name": "Giày Thể Thao Cao Cấp Nam DSMH10201XAM (Xám)*"
+      "price": 241000,
+      "quantity": 3,
+      "status": 0,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsmh10201xam__10__f56d40987d5a4df58565873954ed2985.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh10201xam__3__8e18902ef1cd4b63bfca91c36e046e67.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh10201xam__8__d82b41dbc74740d28e0ef423d3b36765.jpg"
+      ]
+   },
+   {
+      "id": 11,
+      "categoryId": 2,
+      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Black DSMH08300DEN (Đen)"
+      "price": 999000,
+      "quantity": 3,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/h08300den__5__f230eeb566094e7e9d482c9a0746ae10.jpg",
+      "https://product.hstatic.net/1000230642/product/h08300den__2__56874f3828584d81b851673c87df26ed.jpg",
+      "https://product.hstatic.net/1000230642/product/h08300den__6__30314128bf0d4dc0b237d2ef8d6c05cb.jpg"
+      ]
+   },
+   {
+      "id": 12,
+      "categoryId": 2,
+      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Gray DSMH10000XAM (Xám)"
+      "price": 347000,
+      "quantity": 3,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsmh10000xam__5__55cedce16dd948fc9b4b78ddd7487360.jpg",
+      "https://product.hstatic.net/1000230642/product/dsc_0274_dcecbfaaf54c4cb68794172049db4b8f.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh10000xam__7__3f929fa7104c47999e7f83535ded290d.jpg"
+      ]
+   },
+   {
+      "id": 13,
+      "categoryId": 2,
+      "name": "Giày Chạy Bộ Nam Biti's Hunter Running Tiger DSMH08300CAM (Cam)"
+      "price": 675000,
+      "quantity": 3,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/h08300cam__5__82dfff6227f94fd48780041d3ecaad6e.jpg",
+      "https://product.hstatic.net/1000230642/product/h08300cam__2__4fbdf6a42c304e00a40b6dd14b9e9bb7.jpg",
+      "https://product.hstatic.net/1000230642/product/h08300cam__6__b8196662746e404ea824287f0498283e.jpg"
+      ]
+   },
+   {
+      "id": 14,
+      "categoryId": 3,
+      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100DOO (Đỏ)"
+      "price": 863000,
+      "quantity": 2,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsmh11100doo__10__dacc911113214446b1aa9484f8c7d68e.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh11100doo__3__b70e30d2d4e945839a91464b05739e80.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh11100doo__8__8e2512cb08024f57b0af6b16ec51a3b6.jpg"
+      ]
+   },
+   {
+      "id": 15,
+      "categoryId": 3,
+      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100XDG (Xanh Dương)"
+      "price": 634000,
+      "quantity": 25,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsmh11100xdg__10__97e32971563e444cae71ebcbf4cbfbca.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh11100xdg__3__3db44a6395dd410fa148480553cc30ef.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh11100xdg__8__f82753996d7b4ad7bef04b2ab63c4567.jpg"
+      ]
+   },
+   {
+      "id": 16,
+      "categoryId": 3,
+      "name": "Giày Bóng Đá Nam Hunter Football DSMH11100XMN (Xanh Mi Nơ)"
+      "price": 521000,
+      "quantity": 6,
+      "status": 1,
+      "images": [
+      "https://product.hstatic.net/1000230642/product/dsmh11100xmn__10__4ae4120305b4413783d6880ee50f78ad.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh11100xmn__3__0a613da8db50407eb828fee099f993d6.jpg",
+      "https://product.hstatic.net/1000230642/product/dsmh11100xmn__8__4392401b026540c591b63b220ba31e7b.jpg"
+      ]
+   },
+  ]
 }
